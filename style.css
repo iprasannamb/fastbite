@@ -27,7 +27,7 @@ image{
     height: 200px;
 }
 
-.btn{
+#btn{
     border-radius: 10px;
     background-color: rgb(150, 200, 130);
     height:30px;
